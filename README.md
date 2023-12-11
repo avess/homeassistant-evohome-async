@@ -1,6 +1,10 @@
-evohome-async
+homeassistant-evohome-async
 ==============
+Homeassistant custom integration using python client to assynchronously access the Honeywell EvoHome API.
 
+
+
+==================================================================================================================================================================================================================
 Python client to _asynchronously_ access the [Total Connect Comfort](https://international.mytotalconnectcomfort.com/Account/Login) RESTful API.
 
 It is intended to be a faithful port of https://github.com/watchforstock/evohome-client, but async-aware.  That is, it exposes a superset of the **evohome-client** schema (same namespace, same JSON), but with some notable differences between the two (see below).
