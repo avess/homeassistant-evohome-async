@@ -2,5 +2,6 @@
   "domain": "evohome-async",
   "name": "evohome-async",
   "requirements": "aiohttp",
-  "iot_class": "assumed_state:,
+  "iot_class": "assumed_state",
+  "version": "0.0.1"
 }
